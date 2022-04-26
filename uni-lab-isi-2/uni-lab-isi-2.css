@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.exter{
+    margin-left: 5%;
+    margin-right: 78%;
+    font:200px;
+    border: 2px solid black;
+    border-collapse:separate;
+
+}
+
+h1.exter{
+    color:green;
+}
+
+th.exter{
+    color: red;
+}
+td.exter{
+    color: red;
+}
+
+input.exter{
+    color:green;
+}
+

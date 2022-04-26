@@ -1,0 +1,149 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  flex-shrink: 0;
+
+}
+ #esas{
+    display: flex;
+
+ }
+table,th,td,div{
+    border: 1px solid black;
+      
+}
+
+div,#d{
+    border:none;
+}
+
+table{
+    width: 40%;
+    margin-left: 1%;
+}
+
+th{
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 100%;
+}
+td{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+#e,#s,#d {
+    width: 32%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-right: 2px;
+   
+}
+
+.da{
+    border-radius: 80px;
+    width: 80px;
+    height: 80px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 10%;
+    margin-top: 10%;
+}
+
+#s{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    padding-right: 10%;
+}
+
+#ty{
+    margin-left: 5%;
+}
+
+#ew{
+    border: 1px solid black;
+    height: 59%;
+    margin-top: 2px;
+    display: flex;
+    justify-content: center;
+  
+  
+}
+
+#we{
+    border: 1px solid black;
+    height: 39%;
+    display: flex;
+    justify-content: center;
+    
+    
+    
+}
+#iki{
+    border: 1px solid black;
+    width: 80%;
+    font-size: 12px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+ 
+
+ h3{
+    display: flex;
+    justify-content: center;
+ }
+
+ #uc{
+   
+        border: 1px solid black;
+        width: 80%;
+        font-size: 12px;
+        padding-left: 5px;
+        padding-right: 5px;
+ }
+
+.ucu{
+    border: 2px solid black;
+    width: 80%;
+    height: 7%;
+    margin-top: 5px;
+}
+#sub{
+    border: 2px solid black;
+    border-radius: 2px;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    margin-left: 30%;
+}
+
+#dord{
+    
+        border: 1px solid black;
+        width: 80%;
+        font-size: 12px;
+        padding-left: 5px;
+        padding-right: 5px;
+ }
+img{
+    width: 30%;
+}
+
+#qa{
+    display: flex;
+    flex-direction: row;
+}
+#yazi{
+   font-size: 15px;
+   padding-left: 5%;
+   font-weight: bold;
+}
+#qe{
+    margin-top: 15px;
+}
